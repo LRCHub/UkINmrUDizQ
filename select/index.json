@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "W.W.",
+  "base_artist": "Room97",
+  "createdAt": "2025-12-03T02:26:01.959694Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "F.T.W.W.W.",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/01_F.T.W.W.W._My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "F.T.W.W.W.",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/02_F.T.W.W.W._My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "W.I.W.W.T.W.",
+      "artist": "Toro y Moi",
+      "has_synced": true,
+      "path": "select/03_W.I.W.W.T.W._Toro_y_Moi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Needed Me - W&W Remix",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/04_Needed_Me_-_W&W_Remix_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Say My Name (W&W Remix) [Mixed]",
+      "artist": "Dimitri Vegas & Like Mike",
+      "has_synced": true,
+      "path": "select/05_Say_My_Name_(W&W_Remix)_[Mixed]_Dimitri_Vegas_&_Like_Mike.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Poison (with Timmy Trumpet x W&W)",
+      "artist": "R3HAB feat. Timmy Trumpet & W&W",
+      "has_synced": true,
+      "path": "select/06_Poison_(with_Timmy_Trumpet_x_W&W)_R3HAB_feat._Timmy_Trumpet_&_W&W.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "W W A V V E",
+      "artist": "Norma Jean",
+      "has_synced": true,
+      "path": "select/07_W_W_A_V_V_E_Norma_Jean.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rain - W&W Remix",
+      "artist": "Armin van Buuren",
+      "has_synced": false,
+      "path": "select/08_Rain_-_W&W_Remix_Armin_van_Buuren.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rain (W&W Remix)",
+      "artist": "Armin van Buuren",
+      "has_synced": false,
+      "path": "select/09_Rain_(W&W_Remix)_Armin_van_Buuren.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Never Came - W&W vs Armin van Buuren Remix",
+      "artist": "Armin van Buuren feat. Richard Bedford",
+      "has_synced": true,
+      "path": "select/10_Love_Never_Came_-_W&W_vs_Armin_van_Buuren_Remix_Armin_van_Buuren_feat._Richard_Bedford.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rain - W&W Remix",
+      "artist": "Armin van Buuren feat. Cathy Burton",
+      "has_synced": false,
+      "path": "select/11_Rain_-_W&W_Remix_Armin_van_Buuren_feat._Cathy_Burton.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Let Me Down (W&W Remix)",
+      "artist": "The Chainsmokers feat. Daya",
+      "has_synced": true,
+      "path": "select/12_Don't_Let_Me_Down_(W&W_Remix)_The_Chainsmokers_feat._Daya.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Let Me Down (feat. Daya) (W&W Remix)",
+      "artist": "The Chainsmokers",
+      "has_synced": true,
+      "path": "select/13_Don't_Let_Me_Down_(feat._Daya)_(W&W_Remix)_The_Chainsmokers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "This Is What It Feels Like (W&W Radio Edit)",
+      "artist": "Armin van Buuren feat. Trevor Guthrie",
+      "has_synced": false,
+      "path": "select/14_This_Is_What_It_Feels_Like_(W&W_Radio_Edit)_Armin_van_Buuren_feat._Trevor_Guthrie.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Let Me Down (feat. Daya) / Don't Let Me Down (feat. Daya) [W&W Remix] / Don't Let Me Down (feat. Daya) [Illenium Remix] [Mixed]",
+      "artist": "The Chainsmokers",
+      "has_synced": false,
+      "path": "select/15_Don't_Let_Me_Down_(feat._Daya)___Don't_Let_Me_Down_(feat._Daya)_[W&W_Remix]___Do_The_Chainsmokers.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Get Low - W&W Remix",
+      "artist": "Dillon Francis & DJ Snake",
+      "has_synced": true,
+      "path": "select/16_Get_Low_-_W&W_Remix_Dillon_Francis_&_DJ_Snake.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rain (W & W remix)",
+      "artist": "Armin",
+      "has_synced": false,
+      "path": "select/17_Rain_(W_&_W_remix)_Armin.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "These Silent Hearts (W&W Remix)",
+      "artist": "Armin van Buuren",
+      "has_synced": false,
+      "path": "select/18_These_Silent_Hearts_(W&W_Remix)_Armin_van_Buuren.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Clarity (W&W remix)",
+      "artist": "Zedd feat. Foxes",
+      "has_synced": true,
+      "path": "select/19_Clarity_(W&W_remix)_Zedd_feat._Foxes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "W.W. (feat. 棗いつき)",
+      "artist": "Room97",
+      "has_synced": false,
+      "path": "select/pl_01_W.W._(feat._棗いつき)_Room97.txt"
+    }
+  ]
+}
